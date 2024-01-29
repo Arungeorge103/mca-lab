@@ -1,6 +1,9 @@
 <html>
-    <head></head>
-    <body bgcolor="lightblue">
+    <head>
+        <link rel="stylesheet" type="text/css" href="./style.css">
+    </head>
+    <body>
+        <div class="login-form">
 <form action="logval2.php" method="POST">
     <center>
         <br><br><br><br><br><br>
@@ -27,5 +30,6 @@
     </tr>
     <center>
 </form>
+</div>
 </body>
 </html>
